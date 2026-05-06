@@ -1,0 +1,27 @@
+{
+  "name": "the-visual-sanctuary",
+  "displayName": "The Visual Sanctuary",
+  "description": "The ultimate refuge for your eyes.",
+  "version": "0.0.1",
+  "icon": "icon/icon.png",
+  "engines": {
+    "vscode": "1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Visual Sanctuary Light",
+        "uiTheme": "vs",
+        "path": "./themes/light-color-theme.json"
+      },
+      {
+        "label": "The Visual Sanctuary Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  }
+}
