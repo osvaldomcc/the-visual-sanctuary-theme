@@ -60,9 +60,15 @@ The ultimate refuge for your eyes. A carefully crafted color theme for Visual St
   "workbench.statusBar.visible": true,
   "editor.semanticHighlighting.enabled": true,
   "explorer.compactFolders": false,
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "The Visual Sanctuary Light",
   "window.autoDetectColorScheme": true,
   "workbench.reduceMotion": "auto",
-  "workbench.preferredDarkColorTheme": "Default Light Modern"
+  "workbench.preferredDarkColorTheme": "The Visual Sanctuary Dark"
 }
+```
+
+# Package the extension
+
+```bash
+vsce package --allow-package-all-secrets --allow-package-env-file
 ```

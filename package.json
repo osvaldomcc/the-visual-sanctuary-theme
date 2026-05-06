@@ -3,12 +3,29 @@
   "displayName": "The Visual Sanctuary",
   "description": "The ultimate refuge for your eyes.",
   "version": "0.0.1",
+  "publisher": "osvaldo-castillo",
   "icon": "icon/icon.png",
   "engines": {
     "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osvaldomcc/the-visual-sanctuary-theme"
+  },
+  "keyswords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "light theme",
+    "visual sanctuary",
+    "osvaldomcc",
+    "vscode theme",
+    "code editor theme",
+    "programming theme",
+    "developer theme"
   ],
   "contributes": {
     "themes": [
@@ -23,5 +40,10 @@
         "path": "./themes/dark-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@secretlint/secretlint-rule-no-dotenv": "13.0.0",
+    "@secretlint/secretlint-rule-preset-recommend": "13.0.0",
+    "secretlint": "13.0.0"
   }
 }
