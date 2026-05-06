@@ -17,9 +17,9 @@ The ultimate refuge for your eyes. A carefully crafted color theme for Visual St
 
 ## Screenshots
 
-![Dark Theme](./screenshots/dark.PNG)
+![Light Theme](https://github.com/osvaldomcc/the-visual-sanctuary-theme/blob/main/screenshots/light.PNG)
 
-![Light Theme](screenshots/light.PNG)
+![Dark Theme](https://github.com/osvaldomcc/the-visual-sanctuary-theme/blob/main/screenshots/dark.PNG)
 
 ## Recommendations
 
