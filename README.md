@@ -66,9 +66,3 @@ The ultimate refuge for your eyes. A carefully crafted color theme for Visual St
   "workbench.preferredDarkColorTheme": "The Visual Sanctuary Dark"
 }
 ```
-
-# Package the extension
-
-```bash
-vsce package --allow-package-all-secrets --allow-package-env-file
-```
