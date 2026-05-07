@@ -43,13 +43,13 @@
   "eslint.format.enable": true,
   "editor.linkedEditing": true,
   "[typescriptreact]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[typescript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.preferredDarkColorTheme": "The Visual Sanctuary Dark",
   "diffEditor.renderSideBySide": true,
@@ -57,7 +57,7 @@
     "*": true,
     "plaintext": false,
     "markdown": true,
-    "scminput": false,
+    "scminput": false
   },
-  "workbench.preferredLightColorTheme": "The Visual Sanctuary Light",
+  "workbench.preferredLightColorTheme": "The Visual Sanctuary Light"
 }

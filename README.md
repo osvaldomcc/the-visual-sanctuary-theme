@@ -17,9 +17,9 @@ The ultimate refuge for your eyes. A carefully crafted color theme for Visual St
 
 ## Screenshots
 
-![Light Theme](https://github.com/osvaldomcc/the-visual-sanctuary-theme/blob/main/screenshots/light.PNG)
+![Light Theme](https://github.com/osvaldomcc/the-visual-sanctuary-theme/blob/main/screenshots/light.png)
 
-![Dark Theme](https://github.com/osvaldomcc/the-visual-sanctuary-theme/blob/main/screenshots/dark.PNG)
+![Dark Theme](https://github.com/osvaldomcc/the-visual-sanctuary-theme/blob/main/screenshots/dark.png)
 
 ## Recommendations
 
@@ -27,6 +27,8 @@ The ultimate refuge for your eyes. A carefully crafted color theme for Visual St
 
 - [SF Mono Ligatures](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)
 - [Symbols Icon](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+
+#### Use the light mode during the day and the dark mode at night for optimal eye comfort.
 
 ```json
 {
