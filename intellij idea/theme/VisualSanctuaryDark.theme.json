@@ -1,7 +1,7 @@
 {
   "name": "The Visual Sanctuary Dark",
   "dark": true,
-  "author": "Your Name",
+  "author": "Osvaldo Castillo",
   "ui": {
     "*": {
       "background": "#16161E",
