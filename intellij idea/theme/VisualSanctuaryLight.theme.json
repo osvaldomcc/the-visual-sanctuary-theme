@@ -1,0 +1,62 @@
+{
+  "name": "The Visual Sanctuary Light",
+  "dark": false,
+  "author": "Your Name",
+  "ui": {
+    "*": {
+      "background": "#E8E6DF",
+      "foreground": "#3B3B3B",
+      "infoForeground": "#0063D3",
+      "selectionBackground": "#E8E8E8",
+      "selectionForeground": "#000000",
+      "borderColor": "#F2F0E9"
+    },
+    "Borders": {
+      "color": "#F2F0E9"
+    },
+    "Editor": {
+      "background": "#F2F0E9",
+      "shortcutForeground": "#005FB8"
+    },
+    "ToolWindow": {
+      "background": "#E8E6DF"
+    },
+    "Button": {
+      "background": "#005fb8",
+      "foreground": "#ffffff"
+    }
+  },
+  "colors": {
+    "editorBackground": "#F2F0E9",
+    "editorForeground": "#282C34"
+  },
+  "attributes": {
+    "TEXT": {"foreground": "#282C34", "background": "#F2F0E9"},
+    "DEFAULT_KEYWORD": {"foreground": "#7C5295", "fontType": 2},
+    "DEFAULT_STRING": {"foreground": "#4B7A47"},
+    "DEFAULT_NUMBER": {"foreground": "#B15C00"},
+    "DEFAULT_LINE_COMMENT": {"foreground": "#4F5258", "fontType": 2},
+    "DEFAULT_BLOCK_COMMENT": {"foreground": "#4F5258", "fontType": 2},
+    "DEFAULT_DOC_COMMENT": {"foreground": "#4F5258", "fontType": 2},
+    "DEFAULT_FUNCTION_DECLARATION": {"foreground": "#2D539E", "fontType": 1},
+    "DEFAULT_FUNCTION_CALL": {"foreground": "#2D539E", "fontType": 1},
+    "DEFAULT_METHOD_CALL": {"foreground": "#2D539E", "fontType": 1},
+    "DEFAULT_CLASS_NAME": {"foreground": "#007A8C"},
+    "DEFAULT_INTERFACE_NAME": {"foreground": "#007A8C"},
+    "DEFAULT_INSTANCE_FIELD": {"foreground": "#425E79"},
+    "DEFAULT_LOCAL_VARIABLE": {"foreground": "#282C34"},
+    "DEFAULT_GLOBAL_VARIABLE": {"foreground": "#282C34"},
+    "DEFAULT_PARAMETER": {"foreground": "#0A6E4D", "fontType": 2},
+    "DEFAULT_CONSTANT": {"foreground": "#A63C3C"},
+    "DEFAULT_METADATA": {"foreground": "#9A358C"},
+    "HTML_TAG_NAME": {"foreground": "#B14A00"},
+    "HTML_ATTRIBUTE_NAME": {"foreground": "#7C5295", "fontType": 2},
+    "XML_TAG_NAME": {"foreground": "#B14A00"},
+    "XML_ATTRIBUTE_NAME": {"foreground": "#7C5295", "fontType": 2},
+    "JSON.PROPERTY_KEY": {"foreground": "#425E79"},
+    "CSS.TAG_NAME": {"foreground": "#B14A00"},
+    "CSS.CLASS_NAME": {"foreground": "#007A8C"},
+    "CSS.PROPERTY_NAME": {"foreground": "#425E79"},
+    "CSS.PROPERTY_VALUE": {"foreground": "#4B7A47"}
+  }
+}

@@ -1,0 +1,11 @@
+<idea-plugin>
+    <id>com.osvaldocastillo.visualsanctuary</id>
+    <name>The Visual Sanctuary</name>
+    <vendor email="ocastilloc152@gmail.com" url="https://github.com/osvaldomcc/the-visual-sanctuary-theme">Osvaldo Castillo</vendor>
+    <description>The Visual Sanctuary</description>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="visualSanctuaryDark" path="/theme/VisualSanctuaryDark.theme.json"/>
+        <themeProvider id="visualSanctuaryLight" path="/theme/VisualSanctuaryLight.theme.json"/>
+    </extensions>
+</idea-plugin>
